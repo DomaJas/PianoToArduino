@@ -116,12 +116,13 @@ void setup() {
   pinMode(BUZZER_PIN, OUTPUT);
 }
 
+int tempo = 120; // BPM
+int isLoop = false; // IsLoop?
+
 void loop() {
   PlayMusic(melody, durations, sizeof(melody) / sizeof(int));
-  delay(5000);
+  if (!isLoop) delay(5000);
 }
-
-int tempo = 120; // BPM
 
 void PlayMusic(int melody[], int durations[], int size) {
 
