@@ -1,5 +1,9 @@
 # PianoToArduino
 Use your midi keyboard, midi file or mouse to create songs with arduino buzzer.
+OR you can use simple 0.5W speaker with this sheme.
+
+<img width="1175" height="759" alt="circ" src="https://github.com/user-attachments/assets/a635d193-e086-4e0c-b1c1-f079402c7c4d" />
+
 
 To use Python script just download main.py file and dependencies.
 
