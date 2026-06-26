@@ -141,8 +141,8 @@ void playTone(int ch, int freq) {
  * Music engine
  *************************************************/
 
-int tempo = 125;
-bool isLoop = true;
+int tempo = 120;
+bool isLoop = false;
 
 void PlayMusic(int melody[], int durations[], int size) {
 
