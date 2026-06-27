@@ -4,6 +4,9 @@ OR you can use simple 0.5W speaker with this sheme.
 
 <img width="1175" height="759" alt="circ" src="https://github.com/user-attachments/assets/a635d193-e086-4e0c-b1c1-f079402c7c4d" />
 
+or Simple:
+<img width="878" height="662" alt="image" src="https://github.com/user-attachments/assets/78e6e12e-572e-419e-bdc8-842d6cbeb1f4" />
+
 
 To use Python script just download main.py file and dependencies.
 
